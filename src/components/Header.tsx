@@ -14,7 +14,7 @@ export function Header() {
                 alt="NavGurukul Logo"
                 className="h-8 w-auto"
               />
-              <h1 className="ml-2 text-xl font-semibold text-gray-900">Mock Interview</h1>
+              <h1 className="ml-2 text-xl font-semibold text-gray-900">Peer Interview</h1>
             </div>
           </div>
           <div className="flex items-center">
